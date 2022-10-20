@@ -98,7 +98,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
         android:gravity="center"
-        android:text="@string/_10000000000"
+        android:text="@string/_0"
         android:textColor="@color/yellow"
         android:textSize="32sp"
         android:textStyle="bold"
